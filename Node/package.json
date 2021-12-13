@@ -1,0 +1,13 @@
+{
+  "name": "node-app-alternative",
+  "version": "1.0.0",
+  "description": "Alternate way of same area displayer, but more sophisticated with use of error and return callbacks",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D2\u001b[C\u001b[D.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index2"
+
+  },
+  "author": "Aditi Thakur",
+  "license": "ISC"
+}
