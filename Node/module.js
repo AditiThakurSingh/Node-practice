@@ -4,7 +4,7 @@ module.exportset= (x,y,callback) => {
        , 2000);
     } else {
         setTimeout(() => callback (null, {
-            area=x*y,
+            area: x*y,
         })
         , 2000);
     }    
